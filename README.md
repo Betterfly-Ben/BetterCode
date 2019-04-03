@@ -1,0 +1,2 @@
+# BetterCode
+Better code
