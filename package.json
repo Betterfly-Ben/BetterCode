@@ -1,0 +1,8 @@
+{
+    "name": "Betterfly.BetterCode",
+    "displayName": "BetterCode",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "Better code v1.0.0",
+    "dependencies": { }
+}
